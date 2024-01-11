@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:todo_app/constants/tasktype.dart';
 import 'package:todo_app/model/task.dart';
+import 'package:todo_app/model/todo.dart';
 
 class AddNewTaskScreen extends StatefulWidget {
   const AddNewTaskScreen({super.key, required this.addNewTask});
